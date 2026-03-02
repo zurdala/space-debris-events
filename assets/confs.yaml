@@ -103,6 +103,13 @@ events:
     location: Toulouse, France
     continent: Europe
     link: https://www.issfd2026.fr/
+
+  - title: 8th Summit for Space Sustainability
+    startDate: 2026-11-04
+    endDate: 2026-11-05
+    location: Brasília, Brazil
+    continent: South America
+    link: https://www.swfsummit.org/
     
 pastEvents:
 
