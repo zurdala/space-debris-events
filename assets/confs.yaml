@@ -20,7 +20,7 @@ events:
     continent: Europe
     link: https://indico.esa.int/event/651/
 
-  - title: KePaSSA (Key topics in orbit propagation and their applications to Space Situational Awareness)
+  - title: 7th KePaSSA International Workshop (Key Topics in Orbit Propagation Applied to SSA)
     startDate: 2026-05-27
     endDate: 2026-05-29
     location: Toulon, France
@@ -62,7 +62,7 @@ events:
     continent: Europe
     link: https://web.cvent.com/event/dffa94f9-d8cf-4201-88ae-f8d0a3049700/summary?environment=P2
     
-  - title: SSA Operators Workshop
+  - title: SSA Operators Workshop 2026
     startDate: 2026-06-02
     endDate: 2026-06-06
     location: Boulder, CO, USA
