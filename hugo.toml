@@ -8,6 +8,7 @@ theme = "hugo-bearblog"
   enableInlineShortcodes = true
 
 [params]
+favicon = "images/favicon.png"
 lastUpdate = "2026-02-28T00:00:00"
 githubURL = "https://github.com/zurdala/space-debris-confs"
 githubURLIssue = "https://github.com/zurdala/space-debris-confs/issues/new?template=11-new-conference.md"
