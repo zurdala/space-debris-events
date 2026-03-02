@@ -13,7 +13,7 @@ events:
     continent: Europe
     link: https://indico.esa.int/event/644/
 
-  - title: Zero Debris Week
+  - title: Zero Debris Week 2026
     startDate: 2026-09-08
     endDate: 2026-09-11
     location: TBD
@@ -27,7 +27,7 @@ events:
     continent: Europe
     link: https://kepassa2026.univ-tln.fr/
 
-  - title: 77th IAC 2026
+  - title: 77th  International Astronautical Congress (IAC)
     startDate: 2026-10-05
     endDate: 2026-10-09
     location: Antalya, Turkey
@@ -48,7 +48,7 @@ events:
     continent: Asia
     link: https://www.ssconf.space/
 
-  - title: SpaceOps 2026 Workshop
+  - title: SpaceOps Workshop 2026
     startDate: 2026-04-21
     endDate: 2026-04-23
     location: Dubai, UAE
@@ -76,7 +76,7 @@ events:
     continent: North America
     link: https://www.space-flight.org/docs/2026_summer/2026_summer.html
         
-  - title: AMOS (Advanced Maui Optical and Space Surveillance Technologies)
+  - title: AMOS (Advanced Maui Optical and Space Surveillance Technologies) 2026
     startDate: 2026-09-15
     endDate: 2026-09-18
     location: Maui, Hawai'i, USA
