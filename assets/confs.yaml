@@ -106,8 +106,8 @@ events:
 
   - title:  16th EASN International Conference
     link: https://easnconference.eu/
-    dateStart: 2026-10-27
-    dateEnd: 2026-10-30
+    startDate: 2026-10-27
+    endDate: 2026-10-30
     location: Toulouse, France
     continent: Europe
 
