@@ -160,6 +160,13 @@ events:
     continent: Online
     link: https://indico.esa.int/event/645/overview
 
+  - title: 4th Workshop on Life Cycle Assessment of Space Transportation Systems
+    startDate: 2026-09-01
+    endDate: 2026-09-03
+    location: Stuttgart, Germany
+    continent: Europe
+    link: https://docs.google.com/forms/d/e/1FAIpQLSf-rPNRURUesFdP9MRmNWWkaGoN5Ot7ittVo6bpiBI6NtXifA/viewform?pli=1
+
 pastEvents:
   - title: International Conjunction Assessment Workshop 2025
     startDate: 2025-06-18
