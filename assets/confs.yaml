@@ -104,13 +104,6 @@ events:
     continent: Europe
     link: https://indico.esa.int/event/648/overview
 
-  - title: "2nd Conference on Earth-Space Sustainability: Law, Stewardship, Equity"
-    startDate: 2026-03-18
-    endDate: 2026-03-20
-    location: Leiden, Netherlands
-    continent: Europe
-    link: https://www.universiteitleiden.nl/en/law/institute-of-public-law/institute-of-air-space-law/events/2nd-conference-on-earth-space-sustainability-law-stewardship-equity
-
   - title: 14th IAASS Space Safety Conference
     startDate: 2026-10-20
     endDate: 2026-10-22
@@ -153,13 +146,6 @@ events:
     continent: Europe
     link: https://eucass2027.eu/
 
-  - title: DRAMA Clinics & Workshop on probabilistic re-entry modelling
-    startDate: 2026-03-23
-    endDate: 2026-03-24
-    location: Online
-    continent: Online
-    link: https://indico.esa.int/event/645/overview
-
   - title: 4th Workshop on Life Cycle Assessment of Space Transportation Systems
     startDate: 2026-09-01
     endDate: 2026-09-03
@@ -168,6 +154,20 @@ events:
     link: https://docs.google.com/forms/d/e/1FAIpQLSf-rPNRURUesFdP9MRmNWWkaGoN5Ot7ittVo6bpiBI6NtXifA/viewform?pli=1
 
 pastEvents:
+  - title: DRAMA Clinics & Workshop on probabilistic re-entry modelling
+    startDate: 2026-03-23
+    endDate: 2026-03-24
+    location: Online
+    continent: Online
+    link: https://indico.esa.int/event/645/overview
+    
+  - title: "2nd Conference on Earth-Space Sustainability: Law, Stewardship, Equity"
+    startDate: 2026-03-18
+    endDate: 2026-03-20
+    location: Leiden, Netherlands
+    continent: Europe
+    link: https://www.universiteitleiden.nl/en/law/institute-of-public-law/institute-of-air-space-law/events/2nd-conference-on-earth-space-sustainability-law-stewardship-equity
+    
   - title: International Conjunction Assessment Workshop 2025
     startDate: 2025-06-18
     endDate: 2025-06-20
