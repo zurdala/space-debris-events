@@ -1,4 +1,11 @@
 events:
+  - title: EcoDesign Industry Days 2026
+    link: https://indico.esa.int/event/650/
+    startDate: 2026-05-07
+    endDate: 2026-05-08
+    location: ESAC, Villafranca del Castillo, Madrid, Spain
+    continent: Europe
+
   - title: ESA Space Safety Industry Day 2026
     startDate: 2026-06-16
     endDate: 2026-06-16
@@ -16,7 +23,7 @@ events:
   - title: Zero Debris Week 2026
     startDate: 2026-09-08
     endDate: 2026-09-11
-    location: TBD
+    location: Sevilla, Spain
     continent: Europe
     link: https://indico.esa.int/event/651/
 
