@@ -153,6 +153,13 @@ events:
     continent: Europe
     link: https://docs.google.com/forms/d/e/1FAIpQLSf-rPNRURUesFdP9MRmNWWkaGoN5Ot7ittVo6bpiBI6NtXifA/viewform?pli=1
 
+  - title: 
+    startDate: 2027-05-10
+    endDate: 2027-05-14
+    location: Munich, Germany
+    continent: Europe
+    link: https://spaceops2027.org
+
 pastEvents:
   - title: 5th IAA Conference on Space Situational Awareness (ICSSA)
     startDate: 2026-04-07
