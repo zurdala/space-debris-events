@@ -1,10 +1,5 @@
 events:
-  - title: EcoDesign Industry Days 2026
-    link: https://indico.esa.int/event/650/
-    startDate: 2026-05-07
-    endDate: 2026-05-08
-    location: ESAC, Villafranca del Castillo, Madrid, Spain
-    continent: Europe
+
 
   - title: ESA Space Safety Industry Day 2026
     startDate: 2026-06-16
@@ -55,19 +50,7 @@ events:
     continent: Europe
     link: https://cospar2026.org
 
-  - title: IAA-HKU-EPFL Space Debris and Sustainability Conference
-    startDate: 2026-05-04
-    endDate: 2026-05-06
-    location: Hong Kong
-    continent: Asia
-    link: https://www.ssconf.space/
 
-  - title: SpaceOps Workshop 2026
-    startDate: 2026-04-21
-    endDate: 2026-04-23
-    location: Dubai, UAE
-    continent: Asia
-    link: https://www.spaceops.org/events/workshops/sops2026-workshop/
 
   - title: SSA Operators Workshop 2026
     startDate: 2026-06-02
@@ -161,6 +144,25 @@ events:
     link: https://spaceops2027.org
 
 pastEvents:
+  - title: IAA-HKU-EPFL Space Debris and Sustainability Conference
+    startDate: 2026-05-04
+    endDate: 2026-05-06
+    location: Hong Kong
+    continent: Asia
+    link: https://www.ssconf.space/
+
+  - title: SpaceOps Workshop 2026
+    startDate: 2026-04-21
+    endDate: 2026-04-23
+    location: Dubai, UAE
+    continent: Asia
+    link: https://www.spaceops.org/events/workshops/sops2026-workshop/
+  - title: EcoDesign Industry Days 2026
+    link: https://indico.esa.int/event/650/
+    startDate: 2026-05-07
+    endDate: 2026-05-08
+    location: ESAC, Villafranca del Castillo, Madrid, Spain
+    continent: Europe
   - title: 5th IAA Conference on Space Situational Awareness (ICSSA)
     startDate: 2026-04-07
     endDate: 2026-04-09
